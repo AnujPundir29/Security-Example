@@ -1,4 +1,4 @@
 # Security-Example
 
-### NASA Planets project architecture                                                           
+How OAUTH works                                                  
 <img src="/how oauth works.png">  
